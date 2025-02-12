@@ -3,6 +3,8 @@
 
 Full Stack Project project build with MERN Stack along with other technologies.
 
+![1](https://github.com/aditya7812/Learning-Management-System/assets/117096897/e4763f04-a250-46f3-9a4d-25e2f1e3b493)
+
 
 ## Tech Stack
 
@@ -109,7 +111,7 @@ To run this project, you will need to add the following environment variables to
 ## Screenshots
 
 #### Home
-![1](https://github.com/aditya7812/Learning-Management-System/assets/117096897/e4763f04-a250-46f3-9a4d-25e2f1e3b493)
+
 
 ![2](https://github.com/aditya7812/Learning-Management-System/assets/117096897/243de49b-0579-4b9f-b00d-61e22d43fe1b)
 
